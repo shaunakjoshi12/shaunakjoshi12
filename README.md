@@ -26,9 +26,6 @@ Additionally I have also implemented GAN and VAE in my personal project and scho
 ## Specialized Areas
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-06AED5?style=for-the-badge&logo=opencv&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-118C4E?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 
-## Advanced Techniques
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF4785?style=for-the-badge&logo=huggingface&logoColor=white)
-
 ## 📚 Publication
 Bhalekar, M., Sureka, S., Joshi, S., Bedekar, M. (2020). Generation of Image Captions Using VGG and ResNet CNN Models Cascaded with RNN Approach. In: Agarwal, S., Verma, S., Agrawal, D. (eds) Machine Intelligence and Signal Processing. MISP 2019. Advances in Intelligent Systems and Computing, vol 1085. Springer, Singapore. https://doi.org/10.1007/978-981-15-1366-4_3
 
