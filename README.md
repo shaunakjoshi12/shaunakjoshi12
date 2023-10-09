@@ -29,6 +29,15 @@ Additionally I have also implemented GAN and VAE in my personal project and scho
 ## Advanced Techniques
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF4785?style=for-the-badge&logo=huggingface&logoColor=white)
 
+## 📚 Research & Publications
+Bhalekar, M., Sureka, S., Joshi, S., Bedekar, M. (2020). Generation of Image Captions Using VGG and ResNet CNN Models Cascaded with RNN Approach. In: Agarwal, S., Verma, S., Agrawal, D. (eds) Machine Intelligence and Signal Processing. MISP 2019. Advances in Intelligent Systems and Computing, vol 1085. Springer, Singapore. https://doi.org/10.1007/978-981-15-1366-4_3
+
+<a href="https://linkedin.com/in/shaunak-joshi-7576a9182/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"></a>
+<a href="mailto:shaunaks@usc.edu" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30" height="30"></a>
+<a href="https://instagram.com/shaunakjoshi12" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30" height="30"></a>
+<a href="https://twitter.com/SSJ10568131" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="30" height="30"></a>
+
+
 <table width="100%">
   <tr>
     <td width="50%">
