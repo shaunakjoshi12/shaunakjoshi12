@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a Master's student in Computer Science at the University of Southern California. I have expertise in building products which mainly involve the use of supervised object detection, few-shot image or video classification, semantic segmentation and even one-shot image classification. My academic background includes coursework in Analysis of Algorithms, Foundations of AI, NLP, and Database Systems, providing me a solid foundation in computer science.
+I am a Computer Science graduate from University of Southern California. I have expertise in building products which mainly involve the use of supervised object detection, few-shot image or video classification, semantic segmentation and even one-shot image classification. My academic background includes coursework in Analysis of Algorithms, Foundations of AI, NLP, and Database Systems, providing me a solid foundation in computer science.
 
-I have even worked on financial data in my internship and used Gradient Boosting Methods to predict user behavior. In my work at USC's SPORT Lab 
-I focused on optimizing neural network training with the help of multiprocessing paradigms in pytorch.
+I have even worked on financial data in my internship and used Gradient Boosting Methods to predict user behavior. In my work at USC's SPORT Lab I focused on optimizing neural network training with the help of multiprocessing paradigms in pytorch.
 
-In addition to my academic and professional experience, I have done some personal projects in multimodal deep learning employing the use of BERT. One of my notable projects involves identifying plot holes in stories using BERT and Graph Neural Networks. 
+In addition to my academic and professional experience, I have done some personal projects in multimodal deep learning employing the use of BERT. One of my notable projects involves identifying plot holes in stories using BERT and Graph Neural Networks.
 
-Additionally I have also implemented GAN and VAE in my personal project and school assignment and have working knowledge of GPT-1 as well.
+Additionally I have also implemented GAN and VAE in my personal project and school assignment and have working knowledge of GPT as well.
+
 
 # Skills
 ## Programming Languages
