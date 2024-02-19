@@ -6,7 +6,7 @@ I have even worked on financial data in my internship and used Gradient Boosting
 
 In addition to my academic and professional experience, I have done some personal projects in multimodal deep learning employing the use of BERT. One of my notable projects involves identifying plot holes in stories using BERT and Graph Neural Networks.
 
-Additionally I have also implemented GAN and VAE in my personal project and school assignment and have working knowledge of GPT as well.
+Additionally I have also implemented GAN and VAE in my personal project and school assignment and have working knowledge of GPT.
 
 
 # Skills
